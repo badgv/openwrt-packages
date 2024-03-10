@@ -3,4 +3,7 @@
 	url = https://github.com/jerrykuku/luci-theme-argon
 [submodule "openwrt-passwall2"]
 	path = openwrt-passwall2
-	url = ./openwrt-passwall2
+	url = https://github.com/xiaorouji/openwrt-passwall2
+[submodule "openwrt-passwall-packages"]
+	path = openwrt-passwall-packages
+	url = https://github.com/xiaorouji/openwrt-passwall-packages
