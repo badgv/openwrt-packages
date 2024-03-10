@@ -7,3 +7,6 @@
 [submodule "openwrt-passwall-packages"]
 	path = openwrt-passwall-packages
 	url = https://github.com/xiaorouji/openwrt-passwall-packages
+[submodule "small-package"]
+	path = small-package
+	url = https://github.com/kenzok8/small-package
