@@ -10,3 +10,6 @@
 [submodule "small-package"]
 	path = small-package
 	url = https://github.com/kenzok8/small-package
+[submodule "luci-app-adguardhome"]
+	path = luci-app-adguardhome
+	url = https://github.com/xiaoxiao29/luci-app-adguardhome
