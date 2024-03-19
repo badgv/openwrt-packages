@@ -10,3 +10,7 @@
 [submodule "luci-app-adguardhome"]
 	path = luci-app-adguardhome
 	url = https://github.com/xiaoxiao29/luci-app-adguardhome
+[submodule "golang"]
+	path = golang
+	url = https://github.com/sbwml/packages_lang_golang.git
+	branch = 22.x
