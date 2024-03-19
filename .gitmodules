@@ -14,3 +14,7 @@
 	path = golang
 	url = https://github.com/sbwml/packages_lang_golang.git
 	branch = 22.x
+[submodule "packages/lang/golang"]
+	path = packages/lang/golang
+	url = https://github.com/sbwml/packages_lang_golang.git
+	branch = 22.x
