@@ -12,9 +12,5 @@
 	url = https://github.com/xiaoxiao29/luci-app-adguardhome
 [submodule "golang"]
 	path = golang
-	url = https://github.com/sbwml/packages_lang_golang.git
-	branch = 22.x
-[submodule "packages/lang/golang"]
-	path = packages/lang/golang
-	url = https://github.com/sbwml/packages_lang_golang.git
+	url = https://github.com/kenzok8/golang
 	branch = 22.x
