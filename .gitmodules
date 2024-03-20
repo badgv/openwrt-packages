@@ -14,3 +14,9 @@
 	path = golang
 	url = https://github.com/kenzok8/golang
 	branch = 22.x
+[submodule "packages"]
+	path = packages
+	url = https://github.com/kenzok8/openwrt-packages
+[submodule "small"]
+	path = small
+	url = https://github.com/kenzok8/small
